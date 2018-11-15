@@ -9,3 +9,5 @@
 - Update the text on the page
 
 - Adjust the Navbar navigation
+
+- Replace the loader svg

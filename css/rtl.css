@@ -676,9 +676,8 @@ table > tbody > tr > td, .table > tfoot > tr > td {
 }
 
 .site-logo img {
-	float: right;
-	margin-right: 0;
-	margin-left: 12px;
+	/* margin-right: 0;
+	margin-left: 12px; */
 }
 
 .w-category .category-list a {

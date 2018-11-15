@@ -1,1 +1,36 @@
 /* Custom CSS styles */
+.landingVideo {
+    height: 100%;
+    width: 1200px;
+    position: relative;
+}
+
+#myVideo {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
+.bg-2  {
+    /* display: none !important; */
+    width: 100% ;
+  }
+  
+  .container .table {
+    width: 50%;
+  }
+  
+  .slide-2 {
+    width: 500px;
+    padding: 60px 0;
+  }
+
+  .logo-text {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-items: center;
+    width: 200px;
+    justify-content: space-between;
+  }

@@ -5,6 +5,13 @@
     position: relative;
 }
 
+@media only screen and (max-width: 768px) {
+
+    .landingVideo {
+      display: none;
+    }
+}
+
 #myVideo {
   position: absolute;
   right: 0;
@@ -15,7 +22,7 @@
 
 .bg-2  {
     /* display: none !important; */
-    width: 100% ;
+    width: 100%;
   }
   
   .container .table {

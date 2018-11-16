@@ -21,12 +21,7 @@
 }
 
 .bg-2  {
-    /* display: none !important; */
     width: 100%;
-  }
-  
-  .container .table {
-    width: 50%;
   }
   
   .slide-2 {
@@ -40,4 +35,16 @@
     justify-items: center;
     width: 200px;
     justify-content: space-between;
+  }
+
+  .info-box-content {
+    height: 230px;
+  }
+
+.image-box {
+    height: 100px;
+  }
+
+  .img {
+    height: 100px;
   }

@@ -1816,7 +1816,7 @@ div:hover > .btn-reverse-bg-green {
   min-height: 50px;
   display: flex; }
   .clients-item:hover img {
-    opacity: 0; }
+    transform: scale(1.1); }
   .clients-item:hover .hover {
     opacity: 1; }
   .clients-item img {

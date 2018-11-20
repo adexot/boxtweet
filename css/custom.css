@@ -48,3 +48,24 @@
   .img {
     height: 100px;
   }
+
+  .slider-tabs-vertical-thumb img {
+    height: 500px;
+  }
+
+  .ply path:hover {
+    fill: red;
+  }
+  .bg-8 {
+    margin-bottom: 50px;
+  }
+
+
+/* this section doesn't seem relevent to business, but comment out .bg-11 to view  */
+  .bg-11 {
+    display: none;
+  }
+
+  .bg-pink {
+    background-color: rgb(207, 164, 137);
+  }

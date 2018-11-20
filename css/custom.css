@@ -62,7 +62,7 @@
 
 
 /* this section doesn't seem relevent to business, but comment out .bg-11 to view  */
-  .bg-11 {
+  .bg-11, .bg-13{
     display: none;
   }
 
